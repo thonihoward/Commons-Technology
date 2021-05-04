@@ -16,11 +16,9 @@ Click on the links below to view training videos:
 - [Updating MAC Computers](https://www.youtube.com/watch?v=-oGst8Eltss&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=12)
 - [Deleting Files on a MAC via the Finder](https://www.youtube.com/watch?v=Hl6SibD85wg&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=13)
 - Help Ticket Resolution Tree:
-1) Event Student Worker or Front Desk Student Worker 
-2) Event Coordinator  
-3) LBC Staff or Tulane Tech Services - From the Uptown Campus call Monday through Friday 7AM - 7PM at 504-862-8888 or extension 2-8888. 
-4) AAP of Technology and Women’s History by appointment.  
-
+       First: Event Student Worker or Front Desk Student Worker 
+       Second: Event Coordinator  
+       Third: LBC Staff or Tulane Tech Services - From the Uptown Campus call Monday through Friday 7AM - 7PM at 504-862-8888 or extension 2-8888. 
 
 **Module 3 - Media Labs**
 - [Introduction to Media Labs](https://www.youtube.com/watch?v=aTGHNNYQXSU&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=14)
