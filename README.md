@@ -31,7 +31,9 @@ Click on the links below to view training videos:
 - [Replace Paper](https://www.youtube.com/watch?v=7AAVVajvvrI&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=23)
 
 **Classroom Support**
-- Help Ticket Resolution Tree:
-       - First: Event Student Worker or Front Desk Student Worker. 
-       - Second: Event Coordinator  
-       - Third: LBC Staff or Tulane Tech Services - From the Uptown Campus call Monday through Friday 7AM - 7PM at 504-862-8888 or extension 2-8888. 
+
+Help Ticket Resolution Tree:
+- First: Event Student Worker or Front Desk Student Worker. 
+- Second: Event Coordinator  
+- Third: LBC Staff or Tulane Tech Services - From the Uptown Campus call Monday through Friday 7AM - 7PM at 504-862-8888 or extension 2-8888. 
+- Fourth: Administrative Assistant Professor of Technology and Women's History - By Appoinment Only
