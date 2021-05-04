@@ -15,10 +15,6 @@ Click on the links below to view training videos:
 **Module 2 - Classroom and Lab Maintenance**
 - [Updating MAC Computers](https://www.youtube.com/watch?v=-oGst8Eltss&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=12)
 - [Deleting Files on a MAC via the Finder](https://www.youtube.com/watch?v=Hl6SibD85wg&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=13)
-- Help Ticket Resolution Tree:
-       First: Event Student Worker or Front Desk Student Worker 
-       Second: Event Coordinator  
-       Third: LBC Staff or Tulane Tech Services - From the Uptown Campus call Monday through Friday 7AM - 7PM at 504-862-8888 or extension 2-8888. 
 
 **Module 3 - Media Labs**
 - [Introduction to Media Labs](https://www.youtube.com/watch?v=aTGHNNYQXSU&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=14)
@@ -33,3 +29,9 @@ Click on the links below to view training videos:
 - [Toner Storage](https://www.youtube.com/watch?v=DvZzBDAx_H8&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=21)
 - [Replacing Toner](https://www.youtube.com/watch?v=fyzKYoIR5Wc&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=22)
 - [Replace Paper](https://www.youtube.com/watch?v=7AAVVajvvrI&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=23)
+
+**Classroom Support**
+- Help Ticket Resolution Tree:
+       - First: Event Student Worker or Front Desk Student Worker. 
+       - Second: Event Coordinator  
+       - Third: LBC Staff or Tulane Tech Services - From the Uptown Campus call Monday through Friday 7AM - 7PM at 504-862-8888 or extension 2-8888. 
