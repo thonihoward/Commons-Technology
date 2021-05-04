@@ -16,6 +16,27 @@ Click on the links below to view training videos:
 - [Updating MAC Computers](https://www.youtube.com/watch?v=-oGst8Eltss&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=12)
 - [Deleting Files on a MAC via the Finder](https://www.youtube.com/watch?v=Hl6SibD85wg&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=13)
 
+_Help Ticket Resolution Tree _
+1) Event Student Worker or Front Desk Student Worker 
+
+2) Event Coordinator  
+
+3) LBC Staff or Tulane Tech Services
+
+4) AAP of Technology and Women’s History by appointment.  
+
+ 
+To contact Tech support, you can:  
+
+- Email: You can email help@tulane.edu 
+
+- Online: enter a support ticket at http://support.tulane.edu or write help@tulane.edu or search the Knowledge Base at https://tulane.service-now.com/kb 
+
+- Chat: http://support.tulane.edu 
+
+- Call : From the Uptown Campus call Monday through Friday 7AM - 7PM at 504-862-8888 or extension 2-8888. 
+
+
 **Module 3 - Media Labs**
 - [Introduction to Media Labs](https://www.youtube.com/watch?v=aTGHNNYQXSU&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=14)
 - [Remote and Connector Storage](https://www.youtube.com/watch?v=mGd6leRxzYE&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=15)
