@@ -26,4 +26,6 @@ Click on the links below to view training videos:
 
 **Module 4 - Copiers**
 - [Checking Toner Levels](https://www.youtube.com/watch?v=yvNYvVEDSXg&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=20)
-- 
+- [Toner Storage](https://www.youtube.com/watch?v=DvZzBDAx_H8&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=21)
+- [Replacing Toner](https://www.youtube.com/watch?v=fyzKYoIR5Wc&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=22)
+- [Replace Paper](https://www.youtube.com/watch?v=7AAVVajvvrI&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=23)
