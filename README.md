@@ -20,4 +20,10 @@ Click on the links below to view training videos:
 - [Introduction to Media Labs](https://www.youtube.com/watch?v=aTGHNNYQXSU&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=14)
 - [Remote and Connector Storage](https://www.youtube.com/watch?v=mGd6leRxzYE&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=15)
 - [TV HDMI Settings](https://www.youtube.com/watch?v=iC1Oe_Sbg7Q&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=16)
+- [Share Screen using the PC 2/HDMI Setting](https://www.youtube.com/watch?v=_oS3o1c8UpU&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=17)
+- [Share Screen using PC 3/Sharelink Setting](https://www.youtube.com/watch?v=nrTtdw3f3mc&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=18)
+- [Downloading Sharelink](https://www.youtube.com/watch?v=SEfw0ts3gWk&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=19)
+
+**Module 4 - Copiers**
+- [Checking Toner Levels](https://www.youtube.com/watch?v=yvNYvVEDSXg&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=20)
 - 
