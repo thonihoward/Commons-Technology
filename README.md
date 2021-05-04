@@ -21,19 +21,9 @@ __Help Ticket Resolution Tree__
 
 2) Event Coordinator  
 
-3) LBC Staff or Tulane Tech Services
+3) LBC Staff or Tulane Tech Services - From the Uptown Campus call Monday through Friday 7AM - 7PM at 504-862-8888 or extension 2-8888. 
 
 4) AAP of Technology and Women’s History by appointment.  
-
-To contact Tech support, you can:  
-
-- Email: You can email help@tulane.edu 
-
-- Online: enter a support ticket at http://support.tulane.edu or write help@tulane.edu or search the Knowledge Base at https://tulane.service-now.com/kb 
-
-- Chat: http://support.tulane.edu 
-
-- Call : From the Uptown Campus call Monday through Friday 7AM - 7PM at 504-862-8888 or extension 2-8888. 
 
 
 **Module 3 - Media Labs**
