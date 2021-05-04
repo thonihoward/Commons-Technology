@@ -16,7 +16,7 @@ Click on the links below to view training videos:
 - [Updating MAC Computers](https://www.youtube.com/watch?v=-oGst8Eltss&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=12)
 - [Deleting Files on a MAC via the Finder](https://www.youtube.com/watch?v=Hl6SibD85wg&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=13)
 
-_Help Ticket Resolution Tree _
+__Help Ticket Resolution Tree__
 1) Event Student Worker or Front Desk Student Worker 
 
 2) Event Coordinator  
@@ -25,7 +25,6 @@ _Help Ticket Resolution Tree _
 
 4) AAP of Technology and Women’s History by appointment.  
 
- 
 To contact Tech support, you can:  
 
 - Email: You can email help@tulane.edu 
