@@ -5,7 +5,8 @@ A One-Stop Training Hub for Newcomb Institute's Event Space Technologies.
 Click on the links below to view training instructions and videos:
 
 **Module 1 - Classroom Projector and Projector Panel**
-- [333 and 335 Technology Instructions](https://docs.google.com/document/d/1HoEIu6fnYm9aAHmcwTcCOWhuUgXkEjGbUPo49o4XQ8M/edit?usp=sharing) 
+- [333 and 335 Event Space Signage](https://docs.google.com/document/d/1HoEIu6fnYm9aAHmcwTcCOWhuUgXkEjGbUPo49o4XQ8M/edit?usp=sharing) 
+- [333 and 335 Step-by-Step Instructions](https://tulane.box.com/s/gcquuyrfnypczu2e6hcqcwdhl467wndl)
 - [Introduction to the Projector Screen Video](https://www.youtube.com/watch?v=HOtf2nPXvBw&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=3)
 - [Accessing Projector Mode Video](https://www.youtube.com/watch?v=vW_GwrrqAyk&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=4)
 - [Accessing Audio Mode #1 Video](https://www.youtube.com/watch?v=a6VWVLS9QUo&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=5)
