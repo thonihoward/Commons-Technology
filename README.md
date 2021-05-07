@@ -24,6 +24,8 @@ Click on the links below to view training instructions and videos:
 - [Updating MAC Computers Video](https://www.youtube.com/watch?v=-oGst8Eltss&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=12)
 - [Deleting Files on a MAC via the Finder Video](https://www.youtube.com/watch?v=Hl6SibD85wg&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=13)
 
+**MEDIA LABS - 339 and 340**
+
 **Module 3 - Media Labs**
 - [Introduction to Media Labs Video](https://www.youtube.com/watch?v=aTGHNNYQXSU&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=14)
 - [Remote and Connector Storage Video](https://www.youtube.com/watch?v=mGd6leRxzYE&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=15)
@@ -32,15 +34,17 @@ Click on the links below to view training instructions and videos:
 - [Share Screen using PC 3/Sharelink Setting Video](https://www.youtube.com/watch?v=nrTtdw3f3mc&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=18)
 - [Downloading Sharelink Video](https://www.youtube.com/watch?v=SEfw0ts3gWk&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=19)
 
+**SHARED LABS AND WORK SPACES**
+
 **Module 4 - Copiers**
 - [Checking Toner Levels Video](https://www.youtube.com/watch?v=yvNYvVEDSXg&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=20)
 - [Toner Storage Video](https://www.youtube.com/watch?v=DvZzBDAx_H8&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=21)
 - [Replacing Toner Video](https://www.youtube.com/watch?v=fyzKYoIR5Wc&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=22)
 - [Replace Paper Video](https://www.youtube.com/watch?v=7AAVVajvvrI&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=23)
 
-**Classroom Support**
+**CLASSROOM AND TECHNOLOGY SUPPORT**
 
-Help Ticket Resolution Tree:
+**Help Ticket Resolution Tree:**
 - First: Event Student Worker or Front Desk Student Worker. 
 - Second: Event Coordinator  
 - Third: LBC Staff or Tulane Tech Services - From the Uptown Campus call Monday through Friday 7AM - 7PM at 504-862-8888 or extension 2-8888. 
