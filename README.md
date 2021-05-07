@@ -4,9 +4,14 @@ A One-Stop Training Hub for Newcomb Institute's Event Space Technologies.
 
 Click on the links below to view training instructions and videos:
 
+-----------------------------------------------
 **EVENT SPACES - 300 and 301**
 
 - [Innovative Learning Center Classroom Equipment Self-Paced Training ](https://tulane.instructure.com/courses/2225638)- Click Join Course and log in with your Tulane Credentials. 
+
+
+
+-----------------------------------------------
 
 **EVENT SPACES - 333 and 335**
 
@@ -24,6 +29,10 @@ Click on the links below to view training instructions and videos:
 - [Updating MAC Computers Video](https://www.youtube.com/watch?v=-oGst8Eltss&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=12)
 - [Deleting Files on a MAC via the Finder Video](https://www.youtube.com/watch?v=Hl6SibD85wg&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=13)
 
+
+
+-----------------------------------------------
+
 **MEDIA LABS - 339 and 340**
 
 **Module 3 - Media Labs**
@@ -33,6 +42,10 @@ Click on the links below to view training instructions and videos:
 - [Share Screen using the PC 2/HDMI Setting Video](https://www.youtube.com/watch?v=_oS3o1c8UpU&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=17)
 - [Share Screen using PC 3/Sharelink Setting Video](https://www.youtube.com/watch?v=nrTtdw3f3mc&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=18)
 - [Downloading Sharelink Video](https://www.youtube.com/watch?v=SEfw0ts3gWk&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=19)
+
+
+
+-----------------------------------------------
 
 **SHARED LABS AND WORK SPACES**
 
