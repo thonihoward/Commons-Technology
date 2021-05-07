@@ -53,6 +53,10 @@ This tutorial is a a One-Stop Training Hub for Newcomb Institute's Event Space T
 - [Replacing Toner Video](https://www.youtube.com/watch?v=fyzKYoIR5Wc&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=22)
 - [Replace Paper Video](https://www.youtube.com/watch?v=7AAVVajvvrI&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=23)
 
+
+
+-----------------------------------------------
+
 **CLASSROOM AND TECHNOLOGY SUPPORT**
 
 **Help Ticket Resolution Tree:**
