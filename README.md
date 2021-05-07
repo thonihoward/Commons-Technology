@@ -4,6 +4,12 @@ A One-Stop Training Hub for Newcomb Institute's Event Space Technologies.
 
 Click on the links below to view training instructions and videos:
 
+**EVENT SPACES - 300 and 301**
+
+- [Innovative Learning Center Classroom Equipment Self-Paced Training ](https://tulane.instructure.com/courses/2225638)- Click Join Course and log in with your Tulane Credentials. 
+
+**EVENT SPACES - 333 and 335**
+
 **Module 1 - Classroom Projector and Projector Panel**
 - [333 and 335 Event Space Signage](https://docs.google.com/document/d/1HoEIu6fnYm9aAHmcwTcCOWhuUgXkEjGbUPo49o4XQ8M/edit?usp=sharing) 
 - [333 and 335 Step-by-Step Instructions](https://tulane.box.com/s/gcquuyrfnypczu2e6hcqcwdhl467wndl)
