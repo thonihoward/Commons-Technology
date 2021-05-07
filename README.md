@@ -1,8 +1,6 @@
 # Commons-Technology
 
-A One-Stop Training Hub for Newcomb Institute's Event Space Technologies. 
-
-Click on the links below to view training instructions and videos:
+This tutorial is a a One-Stop Training Hub for Newcomb Institute's Event Space Technologies. Click on the links below to view training instructions and videos. 
 
 -----------------------------------------------
 **EVENT SPACES - 300 and 301**
