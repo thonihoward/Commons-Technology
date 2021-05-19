@@ -65,6 +65,10 @@ This tutorial is a a One-Stop Training Hub for Newcomb Institute's Event Space T
 - Third: LBC Staff or Tulane Tech Services - From the Uptown Campus call Monday through Friday 7AM - 7PM at 504-862-8888 or extension 2-8888. 
 - Fourth: Administrative Assistant Professor of Technology and Women's History - By Appoinment Only
 
+
+
+-----------------------------------------------
+
 **SOFTWARE**
 
 [Student Access to Adobe Creative Cloud](appsanywhere.tulane.edu)
