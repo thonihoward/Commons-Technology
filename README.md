@@ -70,5 +70,5 @@ This tutorial is a a One-Stop Training Hub for Newcomb Institute's Event Space T
 -----------------------------------------------
 
 **SOFTWARE**
-
-[Student Access to Adobe Creative Cloud](appsanywhere.tulane.edu)
+- [Student Access to Adobe Creative Cloud](appsanywhere.tulane.edu)
+- [Qualtrics](http://guide.tulane.edu/ilc-training-library/ilc-training-library-qualtrics/)
