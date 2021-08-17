@@ -1,8 +1,58 @@
 # Commons-Technology
+_One Stop _
 
-This tutorial is a a One-Stop Training Hub for Newcomb Institute's Technologies. Click on the links below to view training instructions and videos. 
+This tutorial is a a one-stop Training Hub for Newcomb Institute's Technologies. Click on the links below to view training instructions, video help and information onwho to contact.  
+
+GET HELP
 
 -----------------------------------------------
+
+**CLASSROOM SUPPORT**
+
+_Examples: Issues with the computer, display/screen, audio, microphones, zoom
+_
+**First**: Front Desk and Event Staff (Commons 320)
+
+**Second**: Lory Arnold 
+
+**Third**: Information Technology Interns (Commons 340)
+
+**Fourth**: Jacquelyne Thoni Howard (Commons 315) 
+
+To request training or computer updates: email Jacquelyne Thoni Howard, jhoward8@tulane.edu 
+![image](https://user-images.githubusercontent.com/57606482/129773818-31a07834-040b-41a9-969d-6a82a3848853.png)
+
+-----------------------------------------------
+
+**TECH SUPPORT**
+
+_Examples: Printing, Network/Wifi Connections, Software: Pulse/VPNs, Java, Banner, Advance, Outlook, Microsoft Office, Adobe, Duo-Multi Factor Authentication_
+
+**First**: Tulane IT - help@tulane.edu, 504-862-8888, 2-8888
+
+**Second**: IT Interns - Commons 340 
+Office Hours MWF (10-Noon)
+  
+**Third**: If Tulane IT does not resolve the issue or sends you to Technology Connection, email Jacquelyne Thoni Howard (jhoward8) a summary of the issue and what has been done so far. 
+
+-----------------------------------------------
+**EQUIPMENT AND SYSTEMS SUPPORT**
+
+Copiers and Phones: Julie Qiu
+
+Wave Sync and List Servs: Communications Staff – Email Jacque until hired. 
+
+Drupal and Wordpress: Graphic Design/Web Staff – Email Jacque until hired.
+
+Work Station Equipment - Keyboard, Mouse, Computer, Adaptors: Jacquelyne Thoni Howard 
+
+Instructional Technology/Digital Scholarship Consultation: Jacquelyne Thoni Howard 
+
+EMS: Lory Arnold
+-----------------------------------------------
+
+**GET TRAINED **
+
 **EVENT SPACES - 300 and 337**
 
 - [Innovative Learning Center Classroom Equipment Self-Paced Training ](https://tulane.instructure.com/courses/2225638)- Click Join Course and log in with your Tulane Credentials. 
@@ -53,55 +103,9 @@ This tutorial is a a One-Stop Training Hub for Newcomb Institute's Technologies.
 - [Replace Paper Video](https://www.youtube.com/watch?v=7AAVVajvvrI&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=23)
 
 
-
 -----------------------------------------------
 
-**CLASSROOM SUPPORT**
-
-_Examples: Issues with the computer, display/screen, audio, microphones, zoom
-_
-**First**: Front Desk and Event Staff (Commons 320)
-
-**Second**: Lory Arnold 
-
-**Third**: Information Technology Interns (Commons 340)
-
-**Fourth**: Jacquelyne Thoni Howard (Commons 315) 
-
-To request training or computer updates: email Jacquelyne Thoni Howard, jhoward8@tulane.edu 
-![image](https://user-images.githubusercontent.com/57606482/129773818-31a07834-040b-41a9-969d-6a82a3848853.png)
-
------------------------------------------------
-
-**Technology SUPPORT**
-
-_Examples: Printing, Network/Wifi Connections, Software: Pulse/VPNs, Java, Banner, Advance, Outlook, Microsoft Office, Adobe, Duo-Multi Factor Authentication_
-
-**First**: Tulane IT - help@tulane.edu, 504-862-8888, 2-8888
-
-**Second**: IT Interns - Commons 340 
-Office Hours MWF (10-Noon)
-  
-**Third**: If Tulane IT does not resolve the issue or sends you to Technology Connection, email Jacquelyne Thoni Howard (jhoward8) a summary of the issue and what has been done so far. 
-
------------------------------------------------
-**Equipment and Systems Support**
-
-Copiers and Phones: Julie Qiu
-
-Wave Sync and List Servs: Communications Staff – Email Jacque until hired. 
-
-Drupal and Wordpress: Graphic Design/Web Staff – Email Jacque until hired.
-
-Work Station Equipment - Keyboard, Mouse, Computer, Adaptors: Jacquelyne Thoni Howard 
-
-Instructional Technology/Digital Scholarship Consultation: Jacquelyne Thoni Howard 
-
-EMS: Lory Arnold
-
------------------------------------------------
-
-**Important Links**
+**IMPORTANT LINKS**
 - [Student Access to Adobe Creative Cloud](appsanywhere.tulane.edu)
 - [Qualtrics](http://guide.tulane.edu/ilc-training-library/ilc-training-library-qualtrics/)
 - [Events: Setting up Bulk Wifi, Webinar Requests, and Conference Calling](https://tulane.box.com/s/njo3kc8nyrmdlsb48bi8u6kmc6p217o8)
