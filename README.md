@@ -2,7 +2,7 @@
 
 This tutorial is a a one-stop training and information hub for Newcomb Institute's Technologies. Click on the links below to view training instructions, video help and information on who to contact.  
 
-**GET HELP**
+**NEED HELP**
 
 -----------------------------------------------
 
@@ -48,7 +48,7 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
   - **Instructional Technology/Digital Scholarship Consultation**: Email Dr. Jacquelyne Thoni Howard to set up an appointment. 
 
 -----------------------------------------------
-**Get Trained**
+**NEED TRAINING**
 
 **Event Spaces - 300 and 337**
 
