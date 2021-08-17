@@ -10,53 +10,50 @@ This tutorial is a a one-stop training and information hub for Newcomb Institute
 
 **Example**s: Issues with the computer, display/screen, projector, audio, microphones, and zoom. 
 
-**First**: Newcomb Institue's Front Desk Staff (301) and Event Staff (320)
+  - **First**: Newcomb Institue's Front Desk Staff (301) and Event Staff (320)
 
-**Second**: Lory Arnold 
+  - **Second**: Lory Arnold 
 
-**Third**: Information Technology Interns (340)
+  - **Third**: Information Technology Interns (340)
 
-**Fourth**: Dr. Jacquelyne Thoni Howard
+  - **Fourth**: Dr. Jacquelyne Thoni Howard
 
 To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
 -----------------------------------------------
 
-**TECH SUPPORT**
+**Tech Support**
 
 **Examples**: Printing, Network/Wifi Connections, Software: Pulse/VPNs, Java, Banner, Advance, Outlook, Microsoft Office, Adobe, Duo-Multi Factor Authentication_
 
-**First**: Tulane IT - help@tulane.edu, 504-862-8888, 2-8888
+  - **First**: Tulane IT - help@tulane.edu, 504-862-8888, 2-8888
 
-**Second**: IT Interns - Commons 340: Office Hours MWF (10-Noon)
+  - **Second**: IT Interns - Commons 340: Office Hours MWF (10-Noon)
   
-**Third**: If Tulane IT does not resolve the issue or sends you to Technology Connection, email Dr. Jacquelyne Thoni Howard a summary of the issue and what has been done so far. 
+  - **Third**: If Tulane IT does not resolve the issue or sends you to Technology Connection, email Dr. Jacquelyne Thoni Howard a summary of the issue and what has been done so far. 
 
 -----------------------------------------------
-**EQUIPMENT AND SYSTEMS SUPPORT**
+**Equipment, Systems and Consultation Support**
 
-**Copiers and Phones**: Julie Qiu
+  - **Copiers and Phones**: Julie Qiu
 
-**EMS and the Digital Signage** Lory Arnold 
+  - **EMS and the Digital Signage** Lory Arnold 
 
-**Wave Sync and List Servs**: Communications Staff – Email Dr. Jacquelyne Thoni Howard until hired. 
+  - **Wave Sync and List Servs**: Communications Staff – Email Dr. Jacquelyne Thoni Howard until hired. 
 
-**Drupal and Wordpress**: Graphic Design/Web Staff – Email Dr. Jacquelyne Thoni Howard until hired. 
+  - **Drupal and Wordpress**: Graphic Design/Web Staff – Email Dr. Jacquelyne Thoni Howard until hired. 
 
-**Work Station Equipment** - Keyboard, Mouse, Computer, Adaptors: Email Dr. Jacquelyne Thoni Howard.  
+  - **Work Station Equipment** - Keyboard, Mouse, Computer, Adaptors: Email Dr. Jacquelyne Thoni Howard.  
 
-**Instructional Technology/Digital Scholarship Consultation**: Email Dr. Jacquelyne Thoni Howard to set up an appointment. 
+  - **Instructional Technology/Digital Scholarship Consultation**: Email Dr. Jacquelyne Thoni Howard to set up an appointment. 
 
 -----------------------------------------------
 
-**GET TRAINED **
+****GET TRAINED ****
 
 **Event Spaces - 300 and 337**
 
 - [Innovative Learning Center Classroom Equipment Self-Paced Training ](https://tulane.instructure.com/courses/2225638)- Click Join Course and log in with your Tulane Credentials. 
-
-
------------------------------------------------
 
 **Event Spaces - 333 and 335**
 
@@ -76,12 +73,7 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 - [Updating MAC Computers Video](https://www.youtube.com/watch?v=-oGst8Eltss&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=12)
 - [Deleting Files on a MAC via the Finder Video](https://www.youtube.com/watch?v=Hl6SibD85wg&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=13)
 
-
-
 -----------------------------------------------
-
-**Media Labs - 339 and 340**
-
 
 **Module 3 - Media Labs**
 - [Introduction to Media Labs Video](https://www.youtube.com/watch?v=aTGHNNYQXSU&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=14)
@@ -90,8 +82,6 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 - [Share Screen using the PC 2/HDMI Setting Video](https://www.youtube.com/watch?v=_oS3o1c8UpU&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=17)
 - [Share Screen using PC 3/Sharelink Setting Video](https://www.youtube.com/watch?v=nrTtdw3f3mc&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=18)
 - [Downloading Sharelink Video](https://www.youtube.com/watch?v=SEfw0ts3gWk&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=19)
-
-
 
 -----------------------------------------------
 
@@ -103,7 +93,6 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 - [Replacing Toner Video](https://www.youtube.com/watch?v=fyzKYoIR5Wc&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=22)
 - [Replace Paper Video](https://www.youtube.com/watch?v=7AAVVajvvrI&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=23)
 
-
 -----------------------------------------------
 
 **Important Links**
@@ -113,5 +102,3 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 - [Events: Setting up Bulk Wifi, Webinar Requests, and Conference Calling](https://tulane.box.com/s/njo3kc8nyrmdlsb48bi8u6kmc6p217o8)
 - [Zoom/Webinar Requests](https://it.tulane.edu/zoom)
 - [Student Group Printing](https://tulane.box.com/s/p6akc7mn3qd60k845si96fpn71pb6utc)
-
-
