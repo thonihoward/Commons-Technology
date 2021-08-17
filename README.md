@@ -48,12 +48,13 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
   - **Instructional Technology/Digital Scholarship Consultation**: Email Dr. Jacquelyne Thoni Howard to set up an appointment. 
 
 -----------------------------------------------
-
-****GET TRAINED ****
+**Get Trained**
 
 **Event Spaces - 300 and 337**
 
 - [Innovative Learning Center Classroom Equipment Self-Paced Training ](https://tulane.instructure.com/courses/2225638)- Click Join Course and log in with your Tulane Credentials. 
+
+-----------------------------------------------
 
 **Event Spaces - 333 and 335**
 
@@ -68,6 +69,8 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 - [Using Audio Mode Video](https://www.youtube.com/watch?v=LS2wUYU9pv8&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=6)
 - [Accessing the Advanced Controls Page Video](https://www.youtube.com/watch?v=_RZT4DUAsaE&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=8)
 - [Using the Advanced Controls Page Video](https://www.youtube.com/watch?v=EmZxDav8rqA&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=9)
+
+-----------------------------------------------
 
 **Module 2 - Classroom and Lab Maintenance**
 - [Updating MAC Computers Video](https://www.youtube.com/watch?v=-oGst8Eltss&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=12)
@@ -84,8 +87,6 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 - [Downloading Sharelink Video](https://www.youtube.com/watch?v=SEfw0ts3gWk&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=19)
 
 -----------------------------------------------
-
-**Copiers**
 
 **Module 4 - Copiers**
 - [Checking Toner Levels Video](https://www.youtube.com/watch?v=yvNYvVEDSXg&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=20)
