@@ -1,66 +1,66 @@
 # Commons-Technology
-_One Stop _
 
-This tutorial is a a one-stop Training Hub for Newcomb Institute's Technologies. Click on the links below to view training instructions, video help and information onwho to contact.  
+This tutorial is a a one-stop training and information hub for Newcomb Institute's Technologies. Click on the links below to view training instructions, video help and information on who to contact.  
 
-GET HELP
+**GET HELP**
 
 -----------------------------------------------
 
-**CLASSROOM SUPPORT**
+**Classroom Support**
 
-_Examples: Issues with the computer, display/screen, audio, microphones, zoom
-_
-**First**: Front Desk and Event Staff (Commons 320)
+**Example**s: Issues with the computer, display/screen, projector, audio, microphones, and zoom. 
+
+**First**: Newcomb Institue's Front Desk Staff (301) and Event Staff (320)
 
 **Second**: Lory Arnold 
 
-**Third**: Information Technology Interns (Commons 340)
+**Third**: Information Technology Interns (340)
 
-**Fourth**: Jacquelyne Thoni Howard (Commons 315) 
+**Fourth**: Dr. Jacquelyne Thoni Howard
 
-To request training or computer updates: email Jacquelyne Thoni Howard, jhoward8@tulane.edu 
-![image](https://user-images.githubusercontent.com/57606482/129773818-31a07834-040b-41a9-969d-6a82a3848853.png)
+To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
 -----------------------------------------------
 
 **TECH SUPPORT**
 
-_Examples: Printing, Network/Wifi Connections, Software: Pulse/VPNs, Java, Banner, Advance, Outlook, Microsoft Office, Adobe, Duo-Multi Factor Authentication_
+**Examples**: Printing, Network/Wifi Connections, Software: Pulse/VPNs, Java, Banner, Advance, Outlook, Microsoft Office, Adobe, Duo-Multi Factor Authentication_
 
 **First**: Tulane IT - help@tulane.edu, 504-862-8888, 2-8888
 
-**Second**: IT Interns - Commons 340 
-Office Hours MWF (10-Noon)
+**Second**: IT Interns - Commons 340: Office Hours MWF (10-Noon)
   
-**Third**: If Tulane IT does not resolve the issue or sends you to Technology Connection, email Jacquelyne Thoni Howard (jhoward8) a summary of the issue and what has been done so far. 
+**Third**: If Tulane IT does not resolve the issue or sends you to Technology Connection, email Dr. Jacquelyne Thoni Howard a summary of the issue and what has been done so far. 
 
 -----------------------------------------------
 **EQUIPMENT AND SYSTEMS SUPPORT**
 
-Copiers and Phones: Julie Qiu
+**Copiers and Phones**: Julie Qiu
 
-Wave Sync and List Servs: Communications Staff – Email Jacque until hired. 
+**EMS and the Digital Signage** Lory Arnold 
 
-Drupal and Wordpress: Graphic Design/Web Staff – Email Jacque until hired.
+**Wave Sync and List Servs**: Communications Staff – Email Dr. Jacquelyne Thoni Howard until hired. 
 
-Work Station Equipment - Keyboard, Mouse, Computer, Adaptors: Jacquelyne Thoni Howard 
+**Drupal and Wordpress**: Graphic Design/Web Staff – Email Dr. Jacquelyne Thoni Howard until hired. 
 
-Instructional Technology/Digital Scholarship Consultation: Jacquelyne Thoni Howard 
+**Work Station Equipment** - Keyboard, Mouse, Computer, Adaptors: Email Dr. Jacquelyne Thoni Howard.  
 
-EMS: Lory Arnold
+**Instructional Technology/Digital Scholarship Consultation**: Email Dr. Jacquelyne Thoni Howard to set up an appointment. 
+
 -----------------------------------------------
 
 **GET TRAINED **
 
-**EVENT SPACES - 300 and 337**
+**Event Spaces - 300 and 337**
 
 - [Innovative Learning Center Classroom Equipment Self-Paced Training ](https://tulane.instructure.com/courses/2225638)- Click Join Course and log in with your Tulane Credentials. 
 
 
 -----------------------------------------------
 
-**EVENT SPACES - 333 and 335**
+**Event Spaces - 333 and 335**
+
+[Step-by-Step Intructions](https://docs.google.com/document/d/1HoEIu6fnYm9aAHmcwTcCOWhuUgXkEjGbUPo49o4XQ8M/edit?usp=sharing) 
 
 **Module 1 - Classroom Projector and Projector Panel**
 - [333 and 335 Event Space Signage](https://docs.google.com/document/d/1HoEIu6fnYm9aAHmcwTcCOWhuUgXkEjGbUPo49o4XQ8M/edit?usp=sharing) 
@@ -80,7 +80,8 @@ EMS: Lory Arnold
 
 -----------------------------------------------
 
-**MEDIA LABS - 339 and 340**
+**Media Labs - 339 and 340**
+
 
 **Module 3 - Media Labs**
 - [Introduction to Media Labs Video](https://www.youtube.com/watch?v=aTGHNNYQXSU&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=14)
@@ -94,7 +95,7 @@ EMS: Lory Arnold
 
 -----------------------------------------------
 
-**SHARED LABS AND WORK SPACES**
+**Copiers**
 
 **Module 4 - Copiers**
 - [Checking Toner Levels Video](https://www.youtube.com/watch?v=yvNYvVEDSXg&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=20)
@@ -105,8 +106,9 @@ EMS: Lory Arnold
 
 -----------------------------------------------
 
-**IMPORTANT LINKS**
+**Important Links**
 - [Student Access to Adobe Creative Cloud](appsanywhere.tulane.edu)
+- [Employee Access to Software](https://tulane.onthehub.com/WebStore/Welcome.aspx) 
 - [Qualtrics](http://guide.tulane.edu/ilc-training-library/ilc-training-library-qualtrics/)
 - [Events: Setting up Bulk Wifi, Webinar Requests, and Conference Calling](https://tulane.box.com/s/njo3kc8nyrmdlsb48bi8u6kmc6p217o8)
 - [Zoom/Webinar Requests](https://it.tulane.edu/zoom)
