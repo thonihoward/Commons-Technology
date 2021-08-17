@@ -30,7 +30,8 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
   - **First**: Tulane IT - help@tulane.edu, 504-862-8888, 2-8888
 
-  - **Second**: IT Interns - Office Hours MWF 10-Noon (Commons 340)
+  - **Second**: IT Interns - Office Hours 
+      - Lucien: MWF 10-Noon (Commons 340)
   
   - **Third**: If Tulane IT does not resolve the issue or sends you to Technology Connection, email Dr. Jacquelyne Thoni Howard a summary of the issue and what has been done so far. 
 
