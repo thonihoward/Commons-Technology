@@ -45,7 +45,7 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
   - **Web Services via Drupal and Wordpress**: Graphic Design/Web Staff – Email Dr. Jacquelyne Thoni Howard until hired. 
 
-  - **Work Station Equipment** - Keyboard, Mouse, Computer, Adaptors: Email Dr. Jacquelyne Thoni Howard.  
+  - **Work Station Equipment** - Keyboard, Mouse, Computer, Adaptors, Cords: Visit the IT Interns Office Hours (340: MWF from 10 to noon ) or email Dr. Jacquelyne Thoni Howard.  
 
   - **Instructional Technology/Digital Scholarship Consultation**: Email Dr. Jacquelyne Thoni Howard to set up an appointment. 
 
