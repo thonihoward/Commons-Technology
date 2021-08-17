@@ -2,6 +2,8 @@
 
 This tutorial is a a one-stop training and information hub for Newcomb Institute's Technologies. Click on the links below to view training instructions, video help and information on who to contact.  
 
+Access this digiital tutorial at https://github.com/newcombtech/Commons-Technology
+
 **NEED HELP**
 
 -----------------------------------------------
@@ -12,11 +14,11 @@ This tutorial is a a one-stop training and information hub for Newcomb Institute
 
   - **First**: Newcomb Institue's Front Desk Staff (301) and Event Staff (320)
 
-  - **Second**: Lory Arnold 
+  - **Second**: Lory Arnold (323)
 
   - **Third**: Information Technology Interns (340)
 
-  - **Fourth**: Dr. Jacquelyne Thoni Howard
+  - **Fourth**: Dr. Jacquelyne Thoni Howard (315)
 
 To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
@@ -24,11 +26,11 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
 **Tech Support**
 
-**Examples**: Printing, Network/Wifi Connections, Software: Pulse/VPNs, Java, Banner, Advance, Outlook, Microsoft Office, Adobe, Duo-Multi Factor Authentication_
+**Examples**: Printing, Network/Wifi Connections, Software: Pulse/VPNs, Java, Banner, Advance, Outlook, Microsoft Office, Adobe, Duo-Multi Factor Authentication
 
   - **First**: Tulane IT - help@tulane.edu, 504-862-8888, 2-8888
 
-  - **Second**: IT Interns - Commons 340: Office Hours MWF (10-Noon)
+  - **Second**: IT Interns - Office Hours MWF 10-Noon (Commons 340)
   
   - **Third**: If Tulane IT does not resolve the issue or sends you to Technology Connection, email Dr. Jacquelyne Thoni Howard a summary of the issue and what has been done so far. 
 
@@ -41,7 +43,7 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
   - **Wave Sync and List Servs**: Communications Staff – Email Dr. Jacquelyne Thoni Howard until hired. 
 
-  - **Drupal and Wordpress**: Graphic Design/Web Staff – Email Dr. Jacquelyne Thoni Howard until hired. 
+  - **Web Services via Drupal and Wordpress**: Graphic Design/Web Staff – Email Dr. Jacquelyne Thoni Howard until hired. 
 
   - **Work Station Equipment** - Keyboard, Mouse, Computer, Adaptors: Email Dr. Jacquelyne Thoni Howard.  
 
