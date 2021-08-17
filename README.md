@@ -40,7 +40,7 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
   - **Copiers and Phones**: Julie Qiu
 
-  - **EMS and the Digital Signage** Lory Arnold 
+  - **EMS and the Digital Signage**: Lory Arnold 
 
   - **Wave Sync and List Servs**: Communications Staff – Email Dr. Jacquelyne Thoni Howard until hired. 
 
