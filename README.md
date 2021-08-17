@@ -18,7 +18,7 @@ Access this digiital tutorial at https://github.com/newcombtech/Commons-Technolo
 
   - **Third**: Information Technology Interns (340)
 
-  - **Fourth**: Dr. Jacquelyne Thoni Howard (315)
+  - **Fourth**: Dr. Jacquelyne Thoni Howard (315) will contact IES at support@ies-llc.com
 
 To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
