@@ -2,7 +2,7 @@
 
 This tutorial is a a one-stop training and information hub for Newcomb Institute's Technologies. Click on the links below to view training instructions, video help and information on who to contact.  
 
-Access this digiital tutorial at https://github.com/newcombtech/Commons-Technology
+Access this digital tutorial at https://github.com/newcombtech/Commons-Technology
 
 **NEED HELP**
 
