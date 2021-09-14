@@ -1,6 +1,6 @@
 # Commons-Technology
 
-This tutorial is a a one-stop training and information hub for Newcomb Institute's Technologies. Click on the links below to view training instructions, video help and information on who to contact.  
+This one-stop training and information hub for Newcomb Institute's Technologies educates Newcomb faculty, staff, students and affliates about systems and technologies commonly used at our organization. Click on the links below to view training instructions, video help and information on who to contact.  
 
 Access this digital tutorial at https://github.com/newcombtech/Commons-Technology
 
@@ -24,7 +24,7 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
 -----------------------------------------------
 
-**Tech Support**
+**Work Station Tech Support**
 
 **Examples**: Printing, Network/Wifi Connections, Software: Pulse/VPNs, Java, Banner, Advance, Outlook, Microsoft Office, Adobe, Duo-Multi Factor Authentication
 
@@ -99,11 +99,25 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 - [Replace Paper Video](https://www.youtube.com/watch?v=7AAVVajvvrI&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=23)
 
 -----------------------------------------------
+**ListServ Instructions**
+The NI list-serve address is NCI-L@LISTSERV.TULANE.EDU. All emails sent via the listserv can be viewed by all Newcomb faculty and staff. To send an email via the listserv:
+  1) Construct your email. 
+  2) Type in NCI-L@LISTSERV.TULANE.EDU in the To box of your email. It might auto populate in the field for you. 
+  3) Press send.  
+  4) A confirmation email will appear in your box.  
+  5) Click on the link to confirm that you want to send the email to everyone.  
 
 **Important Links**
-- [Student Access to Adobe Creative Cloud](appsanywhere.tulane.edu)
-- [Employee Access to Software](https://tulane.onthehub.com/WebStore/Welcome.aspx) 
-- [Qualtrics](http://guide.tulane.edu/ilc-training-library/ilc-training-library-qualtrics/)
+- [Box](https://tulane.box.com): If prompted, you will click “Part of Tulane University.” Use your Tulane.edu email address and email password. All NI faculty and staff should to use box as their file backup plan, especially with institutional files. 
+- [Calendars](https://tulane.box.com/s/ssggyo0mwsdj3i66kw3w4jqezx3ojd6z)
 - [Events: Setting up Bulk Wifi, Webinar Requests, and Conference Calling](https://tulane.box.com/s/njo3kc8nyrmdlsb48bi8u6kmc6p217o8)
-- [Zoom/Webinar Requests](https://it.tulane.edu/zoom)
+- [NI Share Drive](https://tulane.box.com/s/4soryjqxusrmm4llbz1hayuuutzexat1): You should now see the NI Share Drive folder in your tulane box account. Shared Institutional materials should be stored in this folder on the cloud. Everyone at Newcomb can see the files located in the NI Share drive. Anything placed in blue folders means it is shared with someone. Here are the instructions for using the share drive.
+- Phone Manual: Coming Soon 
+- Software:
+      - [Employee Access to Software](https://tulane.onthehub.com/WebStore/Welcome.aspx) 
+      - [Student Access to Adobe Creative Cloud](appsanywhere.tulane.edu)
 - [Student Group Printing](https://tulane.box.com/s/p6akc7mn3qd60k845si96fpn71pb6utc)
+- [Webmail](https://outlook.com/tulane.edu): You can access Tulane email and calendars via the web browser. This portal is also where you can access your other Microsoft office tools and software. You can change your profile picture under the profile settings.
+- [Wifi](https://it.tulane.edu/wifi) 
+- [Qualtrics](http://guide.tulane.edu/ilc-training-library/ilc-training-library-qualtrics/)
+- [Zoom/Webinar Requests](https://it.tulane.edu/zoom)
