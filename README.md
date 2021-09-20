@@ -124,7 +124,6 @@ The NI list-serve address is NCI-L@LISTSERV.TULANE.EDU. All emails sent via the 
 - [Email](https://outlook.com/tulane.edu): You can access your Tulane email and calendars via the web browser or through a desktop app.This portal is also where you can access your other Microsoft office tools and software. You can change your profile picture under the profile settings. 
 - [Newcomb Events Calendar](https://tulane.box.com/s/ssggyo0mwsdj3i66kw3w4jqezx3ojd6z): Access the Newcomb Events calendar under “My Calendars” in your outlook calendar. You should consult this calendar and the wave sync calendars when planning events, to avoid double booking. You may need to quit the outlook desktop app and reopen it for the calendar to appear. 
 Departmental Email Accounts](http://outlook.com/wave.tulane.edu): (username@wave.tulane.edu): 
-- Or you can add them to your outlook desktop app. 
 - [Wave Sync](https://tulane.campuslabs.com/engage/): Create student program applications and event invitations/calendar notifications via wavesync. 
 - [Qualtrics](https://it.tulane.edu/qualtrics-survey-software): Create surveys for research. We use wave sync is for all student applications. If you use qualtrics for institutional surveys (not personal research), please share with Jacque as a collaborator. 
  - [VPN](https://it.tulane.edu/vpn-software): To access software from Development and Budget office off campus. 
