@@ -33,6 +33,13 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
   - **Second**: IT Interns - Office Hours 
       - Lucien: MWF 10-Noon (Commons 340)
       - Sophie MW 1:00-2:30 (Commons 340)
+      - Rachel Tues 8:00-3:00 (Commons 340)
+      - Rachel Thur 8:00-12:00 (Commons 340)
+      - Kailen Tues 9:30-12:00 (Commons 340)
+      - Kailen W 3:00-5:00 (Commons 340)
+      - Kailen Thur 9:30-11:00 (Commons 340)
+      - Kelly Tues 1:00-3:30 (Commons 340)
+      - Kelly Thur 1:00-5:00 (Commons 340)
   
   - **Third**: If Tulane IT does not resolve the issue or sends you to Technology Connection, email Dr. Jacquelyne Thoni Howard a summary of the issue and what has been done so far. To make an appointment with Dr. Howard, you may email her or use her [calendar link](https://calendly.com/jhoward8/30min?month=2021-08).
 
